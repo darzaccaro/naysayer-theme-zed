@@ -1,7 +1,7 @@
-id = "naysayer"
+id = "naysayer-theme"
 name = "Naysayer"
 version = "1.0.0"
 schema_version = 1
 authors = ["Dar Zaccaro <darzaccaro@gmail.com>"]
-description = "A color theme for Zed inspired by Jonathan Blow's emacs theme."
+description = "A color theme for Zed inspired by Jonathan Blow's compiler livestreams."
 repository = "https://github.com/darzaccaro/naysayer-theme"
